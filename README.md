@@ -10,13 +10,19 @@
 ## 🌱 I’m currently learning:
   - Data Analysis (Apache Superset) & Machine Learning
   - The science of well-being (short course)
-<br/>
+  -
 ## 👯 I’m looking to collaborate on:
-  -  <a href="https://github.com/Agri-Tech-Solutions">Farm Tools</a><br/>
-## 📫 How to reach me: support@kelvinmaina.com <br/>
-## ⚡ Fun fact: I use vim <br/>
-## 🌱 My latest projects <br/> 
-<br/>
+  - <a href="https://github.com/Agri-Tech-Solutions">Farm Tools</a><br/>
+  
+## 📫 How to reach me:
+  - support@kelvinmaina.com <br/>
+  
+## ⚡ Fun fact:
+  -I can draw better than an average person & planning to do art :art: in my old age 😄
+  -I keep lots of crappy old laptops (e-waste)
+  
+## 🌱 My latest projects:
+  -<a href="https://wakatime.com/@kelvinmw/projects/stktftxdfc?start=2024-04-07&end=2024-04-13">
 <!--
 **KelvinMW/kelvinmw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
