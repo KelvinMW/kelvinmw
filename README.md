@@ -1,15 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 <br/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kelvinmw&theme=dark" alt="GitHub Streak" /></a> <br/>
-## 🔭 I’m currently working on robust <a href="https:elmischools.com">[Dashboard module] School Management System (private repo)</a> , <a href="https://wheea.org">WHEEA</a> <br/>
-## 🌱 I’m currently learning:<br/>
-  - Data Analysis (Apache Superset) & Machine Learning<br/>
-  - The science of well-being (short course)<br/>
-  
+## 🔭I’m currently working on:<br/> 
+  -robust <a href="https:elmischools.com">[Dashboard module] School Management System (private repo)</a>
+  - <a href="https://wheea.org">WHEEA</a>
+## 🌱 I’m currently learning:
+  - Data Analysis (Apache Superset) & Machine Learning
+  - The science of well-being (short course)
 ## 👯 I’m looking to collaborate on <a href="https://github.com/Agri-Tech-Solutions">Farm Tools</a> <br/>
 ## 📫 How to reach me: support@kelvinmaina.com <br/>
 ## ⚡ Fun fact: I use vim <br/>
-### 🌱 My latest projects <br/>
+## 🌱 My latest projects <br/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kelvinmw&theme=dark" alt="GitHub Streak"></a> 
+<br/>
 <!--
 **KelvinMW/kelvinmw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
