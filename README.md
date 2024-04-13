@@ -1,16 +1,21 @@
 ## Hi there 👋
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kelvinmw&theme=dark" alt="GitHub Streak"></a>
 <br/>
-## 🔭I’m currently working on:<br/> 
+## 🔭I’m currently working on:
+<br/> 
   -robust <a href="https:elmischools.com">[Dashboard module] School Management System (private repo)</a>
+<br/>
   - <a href="https://wheea.org">WHEEA</a>
+  
 ## 🌱 I’m currently learning:
   - Data Analysis (Apache Superset) & Machine Learning
   - The science of well-being (short course)
-## 👯 I’m looking to collaborate on <a href="https://github.com/Agri-Tech-Solutions">Farm Tools</a> <br/>
+<br/>
+## 👯 I’m looking to collaborate on:
+  -  <a href="https://github.com/Agri-Tech-Solutions">Farm Tools</a><br/>
 ## 📫 How to reach me: support@kelvinmaina.com <br/>
 ## ⚡ Fun fact: I use vim <br/>
-## 🌱 My latest projects <br/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kelvinmw&theme=dark" alt="GitHub Streak"></a> 
+## 🌱 My latest projects <br/> 
 <br/>
 <!--
 **KelvinMW/kelvinmw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
