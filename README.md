@@ -1,10 +1,15 @@
 ### Hi there 👋
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KelvinMW&show_icons=true&theme=tokyonight" />
-</a></p>
 <br/>
--  [![GitHub Streak](https://streak-stats.demolab.com?user=kelvinmw&theme=dark)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kelvinmw&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kelvinmw&theme=dark" alt="GitHub Streak" /></a> <br/>
+## 🔭 I’m currently working on robust <a href="https:elmischools.com">[Dashboard module] School Management System (private repo)</a> , <a href="https://wheea.org">WHEEA</a> <br/>
+## 🌱 I’m currently learning:<br/>
+  - Data Analysis (Apache Superset) & Machine Learning<br/>
+  - The science of well-being (short course)<br/>
+  
+## 👯 I’m looking to collaborate on <a href="https://github.com/Agri-Tech-Solutions">Farm Tools</a> <br/>
+## 📫 How to reach me: support@kelvinmaina.com <br/>
+## ⚡ Fun fact: I use vim <br/>
+### 🌱 My latest projects <br/>
 <!--
 **KelvinMW/kelvinmw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 <p align="center"><a href="https://wakatime.com/@kelvinmw">
   <img align="center" width="400" height="300" src="https://wakatime.com/share/@KelvinMW/4c17a227-eb23-48c5-a2f1-492e5538842c.svg" />
