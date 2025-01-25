@@ -13,6 +13,7 @@
   
 ## 📫 How to reach me:
   - support@kelvinmaina.com <br/>
+  - wkelvinmaina@gmail.com <br/>
   
 ## ⚡ Fun fact:
   - I can draw better than an average person & planning to do art :art: in my old age 😄<br/>
