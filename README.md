@@ -2,7 +2,7 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kelvinmw&theme=dark" alt="GitHub Streak"></a>
 <br/>
 ## 🔭I’m currently working on:
-  - robust <a href="https:elmischools.com">[Dashboard module] School Management System (private repo)</a>
+  - robust <a href="https:elmischools.com">[Dashboard module] School Management System</a>
   - <a href="https://github.com/Agri-Tech-Solutions">Farm Tools [Laravel]</a><br/> 
 ## 🌱 I’m currently learning:
   - Data Analysis (Apache Superset) & Machine Learning
